@@ -1,0 +1,14 @@
+Two-D array approach:
+    Create a Two-D array of cells with the location class.
+        This would require adding a value paramater to the location class
+        Would have to generate mines using a hashset and two for loops. 
+
+
+
+Graph approach: (Personally I think this approach may be easier in the long run)
+    Create an adjacency graph where each bomb would connect to each square around it that isn't another bomb. 
+    Using this approach you could more easily find how many bombs are around a certian square by counting the amount of connections
+    The setup for picking where the bombs are is also the same as the Two-D approach with the advantage that you could also create all
+    important squares at the same time. In other words, this approach would also get rid of empty squares which are not within 
+    "King Movement" of a bomb. 
+

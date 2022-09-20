@@ -1,0 +1,8 @@
+fix the buttons having a stroke
+
+Actually end the game when won or lost
+    idea:
+    https://stackoverflow.com/questions/17871329/disabling-a-button-in-javafx#:~:text=In%20Swing%2C%20we%20can%20disable,setEnabled(false)%3B
+
+    if gamestate == WON || LOST 
+        disable all buttons but reset
