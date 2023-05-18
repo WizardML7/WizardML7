@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @WizardML7
-- 👀 I’m interested in ... Cyber Security and software security. 
-- 🌱 I’m currently attending RIT. 
-- 💞️ I’m looking to collaborate on just about anything. 
+---
+description: Hello, my name is Domenic, and my tag name is WizardML7.
+---
 
-<!---
-WizardML7/WizardML7 is a ✨ special ✨ awesome guy. 
---->
+# About Me
+
+I am a fourth year Computing Security major at RIT and currently working as a cybersecurity intern at Little Caesar's Enterprises. I am most experienced with application/software security as well as red teaming and penetration testing. I am always expanding my knowledge though and looking to learn more.&#x20;
