@@ -1,6 +1,5 @@
 ---
-# Description: 
-Hello, my name is Domenic, and my tag name is WizardML7.
+# Hello, my name is Domenic, and my tag name is WizardML7.
 ---
 
 # About Me
