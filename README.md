@@ -4,7 +4,7 @@
 
 # About Me
 
-I am a fourth year Computing Security major at RIT, specializing in application/software security, red teaming, and penetration testing. Continuously expanding my expertise, I am also delving into malware development, reverse engineering, and bug bounty hunting.
+I am a Cybersecurity grad student BS/MS at RIT, specializing in application/software security, red teaming, and penetration testing. I am also delving into malware development, reverse engineering, and bug bounty hunting.
 
 ## Current and Upcoming Projects
 
